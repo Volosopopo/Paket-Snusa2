@@ -1,0 +1,1 @@
+print(min([i for i in range(201, 1112, 1) if i % 17 == 0]))

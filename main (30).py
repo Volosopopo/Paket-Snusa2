@@ -1,0 +1,1 @@
+print(max([i for i in range(600, 1, -1) if i % 28 == 0]))
